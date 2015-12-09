@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "labb5Vs", "labb5Vs\labb5Vs.csproj", "{1FCED778-206C-4C50-89A5-C6E5E4B272C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Labb5", "..\..\..\dev15\termin 1\c# & .NET\laborationer_Johan_Thorner\Labb5\Labb5.csproj", "{35E40DBB-03E8-4FD9-A0D7-F3715F87D5D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1FCED778-206C-4C50-89A5-C6E5E4B272C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1FCED778-206C-4C50-89A5-C6E5E4B272C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1FCED778-206C-4C50-89A5-C6E5E4B272C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1FCED778-206C-4C50-89A5-C6E5E4B272C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35E40DBB-03E8-4FD9-A0D7-F3715F87D5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35E40DBB-03E8-4FD9-A0D7-F3715F87D5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35E40DBB-03E8-4FD9-A0D7-F3715F87D5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35E40DBB-03E8-4FD9-A0D7-F3715F87D5D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
